@@ -28,7 +28,7 @@ public class Operaciones2 {
         num2=entrada.nextDouble();
         div=num1/num2;
         System.out.println("div="+div);
-        
+        System.out.println("mua");
        
        
         
